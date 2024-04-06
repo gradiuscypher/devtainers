@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 TODO:
-- setting remote dev server
+- install vscode server in the base container
+- how to handle port forwarding
 """
 import subprocess
 from sys import argv
