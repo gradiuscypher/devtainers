@@ -11,6 +11,7 @@ Documentation and TODO list is being actively worked on as I adjust my setup.
 - Create containers on a separate network instead of bridged right to my home network, maybe wireguard or something?
 - Method for adding my git deploy keys to the repo automatically, setup the `gits` alias automatically
 - Tools like a configured zsh and tmux
+- Dont run in the container as root
 
 
 # How to Setup
