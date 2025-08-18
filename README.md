@@ -9,7 +9,7 @@ Documentation and TODO list is being actively worked on as I adjust my setup.
 - Helper for cloning a repo right into the container during setup
 - Container network security: restrict outbound, monitor container connections and DNS queries
 - Create containers on a separate network instead of bridged right to my home network, maybe wireguard or something?
-- Method for adding my git deploy keys to the repo automatically, setup the `gits` alias automatically
+- Method for generating ssh keys and adding my git deploy keys to the repo automatically
 - Tools like a configured zsh and tmux
 - Dont run in the container as root
 
