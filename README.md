@@ -5,6 +5,7 @@ Documentation and TODO list is being actively worked on as I adjust my setup.
 
 
 # TODO
+- Install make, pnpm, uv
 - Helper for creating the incus container, generating the SSH key, and setting up the ssh config
 - Helper for cloning a repo right into the container during setup
 - Container network security: restrict outbound, monitor container connections and DNS queries
